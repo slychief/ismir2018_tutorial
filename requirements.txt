@@ -1,0 +1,11 @@
+keras>=2.1.1
+tensorflow
+# use tensorflow-gpu instead of tensorflow if you have a GPU in your computer
+# in this case you HAVE TO also install:
+# CUDA 9.0: from https://developer.nvidia.com/cuda-90-download-archive
+# CUDNN: from https://developer.nvidia.com/cudnn - Login required!
+scikit-learn>=0.18
+pandas
+librosa
+matplotlib
+spotipy
