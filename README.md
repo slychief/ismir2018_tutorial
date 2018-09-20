@@ -26,30 +26,31 @@ Deep Learning has become state of the art in visual computing and continuously e
 
 # Tutorial Outline
 
-**Part 1 - Deep Learning Basics** ([Slides](https://github.com/slychief/mlprague2018_tutorial/blob/master/Tutorial%20Slides/Part%201%20-%20Basics%20of%20digital%20audio%20and%20deep%20learning.pdf))
-  * Audio Processing Basics ([Jupyter Notebook](https://github.com/slychief/mlprague2018_tutorial/blob/master/Part%201a%20-%20Audio%20Basics.ipynb))
-  * History of Neural Networks
-  * What is Deep Learning
-  * Neural Network Concepts
-  * Coding Examples ([Jupyter Notebook](https://github.com/slychief/mlprague2018_tutorial/blob/master/Part%201b%20-%20Deep%20Learning%20Basics.ipynb))
+**Part 0 - Audio Processing Basics**
 
-**Part 2 - Convolutional Neural Networks** ([Slides](https://github.com/slychief/mlprague2018_tutorial/blob/master/Tutorial%20Slides/Part%202%20-%20Introduction%20to%20CNNs.pdf))
-  * Difference CNN – RNN
-  * How CNNs work (Layers, Filters, Pooling)
-  * Application Domains and how to use in Music
-  * Coding Examples ([Jupyter Notebook](https://github.com/slychief/mlprague2018_tutorial/blob/master/Part%202%20-%20Music%20speech%20classification.ipynb))
+* Audio Processing in Python (Jupyter Notebook)
+* Preparing data and meta-data for this tutorial (Jupyter Notebook)
 
-**Part 3 - Instrumental, Genre and Mood Analysis** ([Slides](https://github.com/slychief/mlprague2018_tutorial/blob/master/Tutorial%20Slides/Part%203%20-%20Music%20AI%20at%20Musimap.pdf))
-  * Large-scale Music AI at Musimap
+**Part 1 - Audio Classification / Tagging (with CNNs)**
+
+  * Introduction (Slides)
   * Instrumental vs. Vocal Detection
-  * Genre Recognition
-  * Mood Detection
-  * Coding Examples ([Jupyter Notebook](https://github.com/slychief/mlprague2018_tutorial/blob/master/Part%203%20-%20Instrumental%20-%20Genre%20-%20Mood%20detection.ipynb))
+  * Convolutional Neural Networks
+  * Genre Classification
+  * Mood Recognition
 
-**Part 4 - Advanced Deep Learning**
-  * Similarity Retrieval ([Jupyter Notebook](https://github.com/slychief/mlprague2018_tutorial/blob/master/Part%204a%20-%20Distance%20Based%20Search.ipynb))
-  * Siamese Networks ([Jupyter Notebook](https://github.com/slychief/mlprague2018_tutorial/blob/master/Part%204b%20-%20Siamese%20Networks.ipynb))
-  * Learning Audio Representation from Tag Similarity ([Jupyter Notebook](https://github.com/slychief/mlprague2018_tutorial/blob/master/Part%204c%20-%20Siamese%20Networks%20with%20Tag%20Similarity.ipynb))
+**Part 2 - Music Similarity Retrieval (with Siamese Networks)** 
+
+  * Distance-based search on handcrafted music features (Jupyter Notebook)
+  * Representation learning Siamese Neural Networks (Jupyter Notebook)
+  * Optimizing representation learning
+  * Learning music similartiy from tags (Jupyter Notebook)
+
+**Part 3 - Onset and Beat Detection (with RNNs)**
+
+  * Recurrent Neural Networks (Slides)
+
+
 
 # Tutorial Requirements
 
