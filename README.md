@@ -71,6 +71,16 @@ After that, to run the tutorials go into the `ismir2018_tutorial` folder and sta
 
 `jupyter notebook`
 
+### Interactive Audio Listening examples within the Browser
+
+The browser-based Jupyter notebooks contain HTML5 audio components to directly listen to predicted results such as for the task of music similarity retrieval. Almost all recent Internet Browsers prohibit direct file access due to decent security issues. Thus, the files have to be provided via the correct protocoll.
+
+To enable the audio samples within the browser, [download](https://owncloud.tuwien.ac.at/index.php/s/bxY87m3k4oMaoFl) and extract the audio files to a directory on your computer. Open a Python Terminal and change to the `mp3_full` directory. Then host a simple Web-server with the following command:
+
+`python -m http.server 9999 --bind 127.0.0.1`
+
+This will server the directory via HTTP. The supplied parameters localhost and port-number are used equally in the Jupyter notebooks.
+
 
 ## Installation of Pre-requisites
 
