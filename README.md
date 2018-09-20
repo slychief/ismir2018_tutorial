@@ -1,14 +1,15 @@
-# Deep Learning for Music Classification using Keras
+# Deep Learning for Music Information Retrieval
 
-(c) 2018 by
+*(c) 2018 by Alexander Schindler, Thomas Lidy and Sebastian Böck*
 
-
-
-http://ismir2018.ircam.fr/pages/events-tutorial-04.html
+This repository contains slides, code and further material for the "Deep Learning for MIR" tutorial held at the *19th International Society for Music Information Retrieval Conference* in Paris, France, from September 23-27, 2018.
 
 
+**Tutorial Web-site:** http://ismir2018.ircam.fr/pages/events-tutorial-04.html
 
 
+
+## Authors / Lecturers
 
 |                                                              |                                                              |                                                              |
 |:------------------------------------------------------------:| ------------------------------------------------------------ | ------------------------------------------------------------ |
