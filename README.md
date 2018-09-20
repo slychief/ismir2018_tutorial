@@ -83,6 +83,20 @@ This will server the directory via HTTP. The supplied parameters localhost and p
 
 
 
+## Download Prepared Datasets
+
+Please download the following data sets for this tutorial:
+
+**MagnaTagAtune**
+
+Prepared Features and Metadata: https://owncloud.tuwien.ac.at/index.php/s/VyDlQKmsA2EFAhv (209MB)
+
+Audio-files: https://owncloud.tuwien.ac.at/index.php/s/bxY87m3k4oMaoFl (702MB)
+
+These are prepared versions from the original datasets described below.
+
+
+
 
 ## Installation of Pre-requisites
 
@@ -158,24 +172,8 @@ and also install the following:
 In order to decode MP3 files (used in the MagnaTagAtune data set) you will need to install FFMpeg on your system.
 
 * Linux: `sudo apt-get install ffmpeg`
-
 * Mac: download FFMPeg for Mac: http://ffmpegmac.net and make sure ffmpeg is on PATH
-
 * Windows: download https://github.com/tuwien-musicir/rp_extract/blob/master/bin/external/win/ffmpeg.exe and make sure it is on the PATH
-
-
-
-## Download Prepared Datasets
-
-Please download the following data sets for this tutorial:
-
-**MagnaTagAtune**
-
-Prepared Features and Metadata: https://owncloud.tuwien.ac.at/index.php/s/3RPE4UutTaXXAib (212MB)
-
-Audio-files: https://owncloud.tuwien.ac.at/index.php/s/bxY87m3k4oMaoFl (702MB)
-
-These are prepared versions from the original datasets described below.
 
 
 
