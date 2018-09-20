@@ -29,8 +29,8 @@ Deep Learning has become state of the art in visual computing and continuously e
 
 **Part 0 - Audio Processing Basics**
 
-* Audio Processing in Python (Jupyter Notebook)
-* Preparing data and meta-data for this tutorial (Jupyter Notebook)
+* Audio Processing in Python ([Jupyter Notebook](./Part_0_Audio_Basics.ipynb))
+* Preparing data and meta-data for this tutorial ([Jupyter Notebook](./Part_0_Prepare_dataset_Magnatagatune.ipynb))
 
 **Part 1 - Audio Classification / Tagging (with CNNs)**
 
@@ -160,13 +160,29 @@ Audio-files: https://owncloud.tuwien.ac.at/index.php/s/bxY87m3k4oMaoFl (702MB)
 
 These are prepared versions from the original datasets described below.
 
+## Further Reading / Information
+
+* **Music Information Retrieval**
+  * [Standard MIR paper by J. Steven Downie](http://www.music.mcgill.ca/~ich/classes/mumt611_06/downie_mir_arist37.pdf)
+  * [ISMIR Proceedings Database](https://dblp.uni-trier.de/db/conf/ismir/index.html)
+  * [List of Datasets](https://www.audiocontentanalysis.org/data-sets/) by Alexander Lerch
+  * Book [Music Similarity and Retrieval](https://www.springer.com/de/book/9783662497203) by Peter Knees and Markus Schedl
+* **Music/Audio Content Processing**
+  * [Librosa Tutorial](https://librosa.github.io/librosa/tutorial.html) - Music/Audio processing in Python
+  * Book: [An Introduction to Audio Content Analysis](https://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=6266785) by  Alexander Lerch
+* **Deep Learning for Music**
+  * [Deep Learning for Music (DL4M)](https://github.com/ybayle/awesome-deep-learning-music) - extensive collection of papers and Github repositories!
+  * [dl4mir: A Tutorial on Deep Learning for MIR](https://github.com/keunwoochoi/dl4mir) by [Keunwoo Choi](https://keunwoochoi.wordpress.com) 
+* **Deep Learning in General**
+  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - Stanford course on deep learning
+  * [Vienna Deep Learning Meetup](https://github.com/vdlm/meetups)
+
 
 ## Credits
 
 The following helper Python libraries are used in these tutorials:
 
-* `audiofile_read.py` and `audio_spectrogram.py`: by Thomas Lidy and Alexander Schindler, taken from the [RP_extract](https://github.com/tuwien-musicir/rp_extract) git repository
-* `wavio.py`: by Warren Weckesser
+* The [RP_extract](https://github.com/tuwien-musicir/rp_extract) feature extractor and content descriptors by Thomas Lidy and Alexander Schindler
 
 The data sets we use in the tutorials are from the following sources:
 
