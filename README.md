@@ -21,11 +21,11 @@ This repository contains slides, code and further material for the "Deep Learnin
 
 also visit: https://www.meetup.com/Vienna-Deep-Learning-Meetup
 
-# Abstract
+## Abstract
 
 Deep Learning has become state of the art in visual computing and continuously emerges into the Music Information Retrieval (MIR) and audio retrieval domain. To bring attention to this topic we provide an introductory tutorial on deep learning for MIR. Besides a general introduction to neural networks, the tutorial covers a wide range of MIR relevant deep learning approaches. Convolutional Neural Networks are currently a de-facto standard for deep learning based audio retrieval. Recurrent Neural Networks have proven to be effective in onset detection tasks such as beat or audio-event detection. Siamese Networks have shown to be effective in learning audio representations and distance functions specific for music similarity retrieval. We introduce these different neural network layer types and architectures on the basis of standard MIR tasks such as music classification, similarity estimation and onset detection. We will incorporate both academic and industrial points of view into the tutorial. The tutorial will be accompanied by a Github repository for the presented content as well as references to state of the art work and literature for further reading. This repository will remain public after the conference.
 
-# Tutorial Outline
+## Tutorial Outline
 
 **Part 0 - Audio Processing Basics**
 
@@ -35,17 +35,17 @@ Deep Learning has become state of the art in visual computing and continuously e
 **Part 1 - Audio Classification / Tagging (with CNNs)**
 
   * Introduction (Slides)
-  * Instrumental vs. Vocal Detection
+  * Instrumental vs. Vocal Detection ([Jupyter Notebook](./Part_1_Instrumental_Genre_Mood_detection.ipynb))
   * Convolutional Neural Networks
   * Genre Classification
   * Mood Recognition
 
 **Part 2 - Music Similarity Retrieval (with Siamese Networks)** 
 
-  * Distance-based search on handcrafted music features (Jupyter Notebook)
-  * Representation learning Siamese Neural Networks (Jupyter Notebook)
+  * Distance-based search on handcrafted music features ([Jupyter Notebook](./Part_2a_Distance_Based_Search.ipynb))
+  * Representation learning Siamese Neural Networks ([Jupyter Notebook](./Part_2b_Siamese_Networks.ipynb))
   * Optimizing representation learning
-  * Learning music similartiy from tags (Jupyter Notebook)
+  * Learning music similartiy from tags ([Jupyter Notebook](Part_2c_Siamese_Networks_with_Tag_Similarity.ipynb))
 
 **Part 3 - Onset and Beat Detection (with RNNs)**
 
@@ -53,7 +53,7 @@ Deep Learning has become state of the art in visual computing and continuously e
 
 
 
-# Tutorial Requirements
+## Tutorial Requirements
 
 For the tutorials, we use iPython / Jupyter notebook, which allows to program and execute Python code interactively in the browser.
 
@@ -67,18 +67,20 @@ The tutorials will open in your browser for viewing.
 
 If you want to follow the tutorials by actually executing the code on your computer, please [install first the pre-requisites](#installation-of-pre-requisites) as described below.
 
-After that, to run the tutorials go into the `mlprague2018_tutorial` folder and start from the command line:
+After that, to run the tutorials go into the `ismir2018_tutorial` folder and start from the command line:
 
 `jupyter notebook`
 
 
-# Installation of Pre-requisites
+## Installation of Pre-requisites
 
-## Install Python 3.x
+### Install Python 3.x
 
 Note: On most Mac and Linux systems Python is already pre-installed. Check with `python --version` on the command line whether you have Python 3.x installed.
 
 Otherwise install Python 3.5 from https://www.python.org/downloads/release/python-350/
+
+We recommend to install the Anaconda Python Distribution due to coverage of scientific Python libraries (most of the libs required in this tutorial are already included): https://www.anaconda.com/download/
 
 ## Install Python libraries:
 
@@ -101,23 +103,23 @@ on the command line.
 Then download or clone the Tutorials from this GIT repository:
 
 ```
-git clone https://github.com/slychief/mlprague2018_tutorial.git
+git clone https://github.com/slychief/ismir2018_tutorial.git
 ```
-or download https://github.com/slychief/mlprague2018_tutorial/archive/master.zip <br/>
-unzip it and rename the folder to `mlprague2018_tutorial`.
+or download https://github.com/slychief/ismir2018_tutorial/archive/master.zip <br/>
+unzip it and rename the folder to `ismir2018_tutorial`.
 
 Install the remaining Python libraries needed:
 
 Either by:
 
 ```
-sudo pip install Keras>=2.1.1 tensorflow scikit-learn>=0.18 pandas librosa spotipy matplotlib
+sudo pip install Keras tensorflow scikit-learn pandas numpy librosa matplotlib progressbar2 seaborn
 ```
 
 or, if you downloaded or cloned this repository, by:
 
 ```
-cd mlprague2018_tutorial
+cd ismir2018_tutorial
 sudo pip install -r requirements.txt
 ```
 
@@ -137,7 +139,7 @@ and also install the following:
 * [cuDNN](https://developer.nvidia.com/cudnn) (requires registration with Nvidia)
 
 
-## Install Audio Decoder
+### Install Audio Decoder
 
 In order to decode MP3 files (used in the MagnaTagAtune data set) you will need to install FFMpeg on your system.
 
@@ -159,7 +161,7 @@ Audio-files: https://owncloud.tuwien.ac.at/index.php/s/bxY87m3k4oMaoFl (702MB)
 These are prepared versions from the original datasets described below.
 
 
-# Credits
+## Credits
 
 The following helper Python libraries are used in these tutorials:
 
