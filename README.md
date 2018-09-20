@@ -82,6 +82,8 @@ To enable the audio samples within the browser, [download](https://owncloud.tuwi
 This will server the directory via HTTP. The supplied parameters localhost and port-number are used equally in the Jupyter notebooks.
 
 
+
+
 ## Installation of Pre-requisites
 
 ### Install Python 3.x
@@ -91,6 +93,8 @@ Note: On most Mac and Linux systems Python is already pre-installed. Check with 
 Otherwise install Python 3.5 from https://www.python.org/downloads/release/python-350/
 
 We recommend to install the Anaconda Python Distribution due to coverage of scientific Python libraries (most of the libs required in this tutorial are already included): https://www.anaconda.com/download/
+
+
 
 ## Install Python libraries:
 
@@ -154,8 +158,11 @@ and also install the following:
 In order to decode MP3 files (used in the MagnaTagAtune data set) you will need to install FFMpeg on your system.
 
 * Linux: `sudo apt-get install ffmpeg`
+
 * Mac: download FFMPeg for Mac: http://ffmpegmac.net and make sure ffmpeg is on PATH
+
 * Windows: download https://github.com/tuwien-musicir/rp_extract/blob/master/bin/external/win/ffmpeg.exe and make sure it is on the PATH
+
 
 
 ## Download Prepared Datasets
@@ -169,6 +176,8 @@ Prepared Features and Metadata: https://owncloud.tuwien.ac.at/index.php/s/3RPE4U
 Audio-files: https://owncloud.tuwien.ac.at/index.php/s/bxY87m3k4oMaoFl (702MB)
 
 These are prepared versions from the original datasets described below.
+
+
 
 ## Further Reading / Information
 
@@ -184,8 +193,10 @@ These are prepared versions from the original datasets described below.
   * [Deep Learning for Music (DL4M)](https://github.com/ybayle/awesome-deep-learning-music) - extensive collection of papers and Github repositories!
   * [dl4mir: A Tutorial on Deep Learning for MIR](https://github.com/keunwoochoi/dl4mir) by [Keunwoo Choi](https://keunwoochoi.wordpress.com) 
 * **Deep Learning in General**
+  * [Keras](https://keras.io/): Python Deep Learning library
   * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - Stanford course on deep learning
   * [Vienna Deep Learning Meetup](https://github.com/vdlm/meetups)
+
 
 
 ## Credits
