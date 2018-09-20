@@ -148,13 +148,11 @@ In order to decode MP3 files (used in the MagnaTagAtune data set) you will need 
 
 Please download the following data sets for this tutorial:
 
-**GTZAN Music Speech Classification**
-
-https://owncloud.tuwien.ac.at/index.php/s/JiBXUPZK9LImTHB (145MB)
-
 **MagnaTagAtune**
 
-https://owncloud.tuwien.ac.at/index.php/s/hivOGXKoUQtacbo (332MB)
+Prepared Features and Metadata: https://owncloud.tuwien.ac.at/index.php/s/3RPE4UutTaXXAib (212MB)
+
+Audio-files: https://owncloud.tuwien.ac.at/index.php/s/bxY87m3k4oMaoFl (702MB)
 
 These are prepared versions from the original datasets described below.
 
@@ -168,7 +166,6 @@ The following helper Python libraries are used in these tutorials:
 
 The data sets we use in the tutorials are from the following sources:
 
-* GTZAN Music Speech: http://marsyasweb.appspot.com/download/data_sets/
 * MagnaTagAtune: http://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset
 
 (don't download them from there but use the prepared datasets from the two owncloud links above)
