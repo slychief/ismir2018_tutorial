@@ -141,7 +141,7 @@ Install the remaining Python libraries needed:
 Either by:
 
 ```
-sudo pip install Keras tensorflow scikit-learn pandas numpy librosa matplotlib progressbar2 seaborn
+sudo pip install Keras tensorflow scikit-learn pandas numpy librosa matplotlib progressbar2 seaborn scipy
 ```
 
 or, if you downloaded or cloned this repository, by:
