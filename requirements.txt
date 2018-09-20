@@ -11,3 +11,4 @@ librosa
 matplotlib
 seaborn
 progressbar2
+scipy
