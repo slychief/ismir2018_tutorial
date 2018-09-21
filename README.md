@@ -11,11 +11,23 @@ This repository contains slides, code and further material for the "Deep Learnin
 
 ## Authors / Lecturers
 
-|                                                              |                                                              |
-|:------------------------------------------------------------:| ------------------------------------------------------------ |
-| <img src="http://ismir2018.ircam.fr/images/tutorial_photo_schindler.jpg" width="200px"> | **Alexander Schindler** is member of the Music Information Retrieval group at the Technical University since 2010 where he actively participates in research, various international projects and currently finishes his Ph.D on audio-visual analysis of music videos. He participates in teaching MIR, machine learning and DataScience. Alexander is currently employed as scientist at the AIT Austrian Institute of Technology where he is responsible for establishing a deep learning group. In various projects he focusses on deep-learning based audio-classification, audio event-detection and audio-similiarity retrieval tasks. ([Website](http://ifs.tuwien.ac.at/~schindler), [Twitter](https://twitter.com/Slychief)) |
-| <img src="http://ismir2018.ircam.fr/images/tutorial_photo_lidy.png" width="100">        | **Thomas Lidy** has been a researcher in music information retrieval in combination with machine learning at TU Wien since 2004. Since 2015, he has been focusing on how Deep Learning can further improve music & audio analysis, winning 3 international benchmarking contests. He is currently the Head of Machine Learning at Musimap, a company that uses Deep Learning to analyze styles, moods and emotions in the global music catalog, in order to create emotion-aware search & recommender engines that empower music supervisors to find the music for their needs and music streaming platforms to deliver the perfect playlists according to people's mood. ([Website]( https://www.linkedin.com/in/thomaslidy/),[Twitter](https://twitter.com/LidyTom)) |
-| <img src="http://ismir2018.ircam.fr/images/tutorial_photo_boeck.jpg" width="100">       | **Sebastian Böck** received his diploma degree in electrical engineering from the Technical University in Munich in 2010 and his PhD in computer science from the Johannes Kepler University Linz. He continued his research at the Austrian Research Institute for Artificial Intelligence (OFAI) and recently also joined the MIR team at the Technical University of Vienna. His main research topic is the analysis of time event series in music signals, with a strong focus on artificial neural networks. (Website,Twitter)                                              |
+<table>
+<tr>
+<td width="100px"><img src="http://ismir2018.ircam.fr/images/tutorial_photo_schindler.jpg" width="200px"></td>
+<td>**Alexander Schindler** is member of the Music Information Retrieval group at the Technical University since 2010 where he actively participates in research, various international projects and currently finishes his Ph.D on audio-visual analysis of music videos. He participates in teaching MIR, machine learning and DataScience. Alexander is currently employed as scientist at the AIT Austrian Institute of Technology where he is responsible for establishing a deep learning group. In various projects he focusses on deep-learning based audio-classification, audio event-detection and audio-similiarity retrieval tasks.</td>
+<td>[Website](http://ifs.tuwien.ac.at/~schindler), [Twitter](https://twitter.com/Slychief)</td>
+</tr>
+<tr>
+<td width="100px"><img src="http://ismir2018.ircam.fr/images/tutorial_photo_lidy.png" width="100"></td>
+<td>**Thomas Lidy** has been a researcher in music information retrieval in combination with machine learning at TU Wien since 2004. Since 2015, he has been focusing on how Deep Learning can further improve music & audio analysis, winning 3 international benchmarking contests. He is currently the Head of Machine Learning at Musimap, a company that uses Deep Learning to analyze styles, moods and emotions in the global music catalog, in order to create emotion-aware search & recommender engines that empower music supervisors to find the music for their needs and music streaming platforms to deliver the perfect playlists according to people's mood.</td>
+<td>[Website]( https://www.linkedin.com/in/thomaslidy/),[Twitter](https://twitter.com/LidyTom)</td>
+<tr>
+</tr>
+<td width="100px"><img src="http://ismir2018.ircam.fr/images/tutorial_photo_boeck.jpg" width="100"></td>
+<td>**Sebastian Böck** received his diploma degree in electrical engineering from the Technical University in Munich in 2010 and his PhD in computer science from the Johannes Kepler University Linz. He continued his research at the Austrian Research Institute for Artificial Intelligence (OFAI) and recently also joined the MIR team at the Technical University of Vienna. His main research topic is the analysis of time event series in music signals, with a strong focus on artificial neural networks.</td>
+<td>Website,Twitter</td>
+</tr>
+</table>
 
 
 also visit: https://www.meetup.com/Vienna-Deep-Learning-Meetup
