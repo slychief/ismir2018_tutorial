@@ -99,7 +99,9 @@ Please download the following data sets for this tutorial:
 
 **MagnaTagAtune**
 
-Prepared Features and Metadata: https://owncloud.tuwien.ac.at/index.php/s/VyDlQKmsA2EFAhv (209MB)
+Prepared Features and Metadata: 
+
+* [Part 1 & 2 Melspectograms (subset)](https://owncloud.tuwien.ac.at/index.php/s/vTO0vD6L1iGGpul) (96MB)
 
 Audio-files: https://owncloud.tuwien.ac.at/index.php/s/bxY87m3k4oMaoFl (702MB)
 
