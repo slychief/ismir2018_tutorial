@@ -45,9 +45,8 @@ Deep Learning has become state of the art in visual computing and continuously e
 
 **Part 1 - Audio Classification / Tagging (with CNNs)**
 
-  * Introduction (Slides)
+  * Introduction - Convolutional Neural Networks (Slides)
   * Instrumental vs. Vocal Detection ([Jupyter Notebook](./Part_1_Instrumental_Genre_Mood_detection.ipynb))
-  * Convolutional Neural Networks
   * Genre Classification
   * Mood Recognition
 
@@ -56,12 +55,12 @@ Deep Learning has become state of the art in visual computing and continuously e
   * Distance-based search on handcrafted music features ([Jupyter Notebook](./Part_2a_Distance_Based_Search.ipynb))
   * Representation learning Siamese Neural Networks ([Jupyter Notebook](./Part_2b_Siamese_Networks.ipynb))
   * Optimizing representation learning
-  * Learning music similartiy from tags ([Jupyter Notebook](Part_2c_Siamese_Networks_with_Tag_Similarity.ipynb))
+  * Learning music similarity from tags ([Jupyter Notebook](Part_2c_Siamese_Networks_with_Tag_Similarity.ipynb))
 
 **Part 3 - Onset and Beat Detection (with RNNs)**
 
   * Recurrent Neural Networks (Slides)
-
+  * Onset and Beat Detection ([Jupyter Notebook]())
 
 
 ## Tutorial Requirements
@@ -105,7 +104,6 @@ Prepared Features and Metadata: https://owncloud.tuwien.ac.at/index.php/s/VyDlQK
 Audio-files: https://owncloud.tuwien.ac.at/index.php/s/bxY87m3k4oMaoFl (702MB)
 
 These are prepared versions from the original datasets described below.
-
 
 
 
