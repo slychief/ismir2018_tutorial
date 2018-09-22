@@ -41,11 +41,14 @@ Deep Learning has become state of the art in visual computing and continuously e
 **Part 0 - Audio Processing Basics**
 
 * Audio Processing in Python ([Jupyter Notebook](./Part_0_Audio_Basics.ipynb))
-* Preparing data and meta-data for this tutorial ([Jupyter Notebook](./Part_0_Prepare_dataset_Magnatagatune.ipynb))
+* Preparing data and meta-data for this tutorial:
+  * ([Jupyter Notebook - Part_0_Prepare_dataset_Magnatagatune](./Part_0_Prepare_dataset_Magnatagatune.ipynb))
+  * ([Jupyter Notebook - Part_0a_Postprocess_label_files](./Part_0a_Postprocess_label_files.ipynb))
+  * ([Jupyter Notebook - Part_0b_Prepare_simplified_groundtruth](./Part_0b_Prepare_simplified_groundtruth.ipynb))
 
 **Part 1 - Audio Classification / Tagging (with CNNs)**
 
-  * Introduction - Convolutional Neural Networks (Slides)
+  * Introduction - Convolutional Neural Networks ([Slides](./slides/Part_1_Convolutional_Neural_Networks.pdf))
   * Instrumental vs. Vocal Detection ([Jupyter Notebook](./Part_1_Convolutional_Neural_Networks.ipynb))
   * Genre Classification
   * Mood Recognition
@@ -99,7 +102,9 @@ Please download the following data sets for this tutorial:
 
 **MagnaTagAtune**
 
-Prepared Features and Metadata: https://owncloud.tuwien.ac.at/index.php/s/VyDlQKmsA2EFAhv (209MB)
+Prepared Features and Metadata: 
+
+* [Part 1 & 2 Melspectograms (subset)](https://owncloud.tuwien.ac.at/index.php/s/vTO0vD6L1iGGpul) (96MB)
 
 Audio-files: https://owncloud.tuwien.ac.at/index.php/s/bxY87m3k4oMaoFl (702MB)
 
