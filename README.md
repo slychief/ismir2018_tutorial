@@ -46,7 +46,7 @@ Deep Learning has become state of the art in visual computing and continuously e
 **Part 1 - Audio Classification / Tagging (with CNNs)**
 
   * Introduction - Convolutional Neural Networks (Slides)
-  * Instrumental vs. Vocal Detection ([Jupyter Notebook](./Part_1_Instrumental_Genre_Mood_detection.ipynb))
+  * Instrumental vs. Vocal Detection ([Jupyter Notebook](./Part_1_Convolutional_Neural_Networks.ipynb))
   * Genre Classification
   * Mood Recognition
 
