@@ -24,8 +24,8 @@ This repository contains slides, code and further material for the "Deep Learnin
 <tr>
 </tr>
 <td width="200px"><img src="http://ismir2018.ircam.fr/images/tutorial_photo_boeck.jpg" width="100"></td>
-<td><b>Sebastian Böck</b> received his diploma degree in electrical engineering from the Technical University in Munich in 2010 and his PhD in computer science from the Johannes Kepler University Linz. He continued his research at the Austrian Research Institute for Artificial Intelligence (OFAI) and recently also joined the MIR team at the Technical University of Vienna. His main research topic is the analysis of time event series in music signals, with a strong focus on artificial neural networks.</td>
-<td>Website,Twitter</td>
+<td><b>Sebastian Böck</b> received his diploma degree in electrical engineering from the Technical University in Munich and his PhD in computer science from the Johannes Kepler University Linz in 2010 and 2016, respectively. He continued his research at the Austrian Research Institute for Artificial Intelligence (OFAI) and recently also joined the MIR team at the Technical University of Vienna. His main research topic is the analysis of time event series in music signals, with a strong focus on artificial neural networks.</td>
+<td><a href="https://scholar.google.com/citations?user=u--KNeYAAAAJ">[Google Scholar]</a></td>
 </tr>
 </table>
 
@@ -63,8 +63,8 @@ Deep Learning has become state of the art in visual computing and continuously e
 **Part 3 - Onset and Beat Detection (with RNNs)**
 
   * Recurrent Neural Networks (Slides)
-  * Onset and Beat Detection ([Jupyter Notebook]())
-
+  * Onset detection ([Jupyter Notebook](./Part_3a_Onset_Detection.ipynb))
+  * Onset detection with RNNs ([Jupyter Notebook](./Part_3b_RNN_Onset_Detection.ipynb))
 
 ## Tutorial Requirements
 
