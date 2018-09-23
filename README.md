@@ -105,8 +105,7 @@ Please download the following data sets for this tutorial:
 Prepared Features and Metadata: 
 
 * [Part 1 & 2 Melspectograms (subset)](https://owncloud.tuwien.ac.at/index.php/s/vTO0vD6L1iGGpul) (96MB)
-
-Audio-files: https://owncloud.tuwien.ac.at/index.php/s/DalHuoMuaxmmyzo (220MB)
+* [Audio-files](https://owncloud.tuwien.ac.at/index.php/s/DalHuoMuaxmmyzo) (220MB)
 
 These are prepared versions from the original datasets described below.
 
