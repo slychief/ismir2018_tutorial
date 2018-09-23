@@ -63,8 +63,8 @@ Deep Learning has become state of the art in visual computing and continuously e
 **Part 3 - Onset and Beat Detection (with RNNs)**
 
   * Recurrent Neural Networks (Slides)
-  * Onset and Beat Detection ([Jupyter Notebook]())
-
+  * Onset detection ([Jupyter Notebook](./Part_3a_Onset_Detection.ipynb))
+  * Onset detection with RNNs ([Jupyter Notebook](./Part_3b_RNN_Onset_Detection.ipynb))
 
 ## Tutorial Requirements
 
