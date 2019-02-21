@@ -213,6 +213,8 @@ In order to decode MP3 files (used in the MagnaTagAtune data set) you will need 
 
 ## Credits
 
+Some of the Tutorial slides of "Part_1_Convolutional_Neural_Networks.pdf" have been created by Jan Schlüter.
+
 The following helper Python libraries are used in these tutorials:
 
 * The [RP_extract](https://github.com/tuwien-musicir/rp_extract) feature extractor and content descriptors by Thomas Lidy and Alexander Schindler
