@@ -14,7 +14,7 @@ This repository contains slides, code and further material for the "Deep Learnin
 <table>
 <tr>
 <td width="200px"><img src="http://ismir2018.ircam.fr/images/tutorial_photo_schindler.jpg" width="200px"></td>
-<td><b>Alexander Schindler</b> is member of the Music Information Retrieval group at the Technical University since 2010 where he actively participates in research, various international projects and currently finishes his Ph.D on audio-visual analysis of music videos. He participates in teaching MIR, machine learning and DataScience. Alexander is currently employed as scientist at the AIT Austrian Institute of Technology where he is responsible for establishing a deep learning group. In various projects he focusses on deep-learning based audio-classification, audio event-detection and audio-similiarity retrieval tasks.</td>
+<td><b>Alexander Schindler</b> is member of the Music Information Retrieval group at the Technical University since 2010 where he actively participates in research, various international projects. He holds a Ph.D on audio-visual analysis of music videos. He participates in teaching MIR, machine learning and DataScience. Alexander is currently employed as scientist at the AIT Austrian Institute of Technology where he is responsible for establishing a deep learning group. In various projects he focusses on deep-learning based audio-classification, audio event-detection and audio-similiarity retrieval tasks.</td>
 <td><a href="http://ifs.tuwien.ac.at/~schindler">[Website]</a>, <a href="https://twitter.com/Slychief">[Twitter]</a>, <a href="https://www.linkedin.com/in/schindleralexander">[LinkeIn]</a></td>
 </tr>
 <tr>
